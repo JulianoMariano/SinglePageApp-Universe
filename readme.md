@@ -26,6 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github;
 - json;
 - Node Modules;
+- Vercel;
 - Figma.
 
 ## 💻 Projeto
